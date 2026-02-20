@@ -1,10 +1,25 @@
-# Moment — Releases
+<p align="center">
+  <img src="app-icon.png" width="128" height="128" alt="Moment app icon" />
+</p>
 
-Download the latest version of **Moment**, a macOS menu bar app that puts news, weather, the Rand, and more one click away.
+<h1 align="center">Moment</h1>
+
+<p align="center">
+  <strong>News. Weather. The Rand. One click.</strong><br />
+  A macOS menu bar app for South Africans. Just a <em>Moment</em>.
+</p>
+
+<p align="center">
+  <a href="https://github.com/shauntrennery/moment-releases/releases/latest">
+    <img src="https://img.shields.io/github/v/release/shauntrennery/moment-releases?label=download&style=flat-square" alt="Latest release" />
+  </a>
+</p>
+
+---
 
 ## Download
 
-Head to the [latest release](https://github.com/shauntrennery/moment-releases/releases/latest) and download the `.dmg` for your Mac:
+Grab the latest `.dmg` from [Releases](https://github.com/shauntrennery/moment-releases/releases/latest):
 
 | Chip | File |
 |------|------|
@@ -13,9 +28,20 @@ Head to the [latest release](https://github.com/shauntrennery/moment-releases/re
 
 Open the `.dmg` and drag **Moment** into your Applications folder.
 
+## What's Inside
+
+- **SA News** — Aggregated headlines from South Africa's top news sources
+- **Weather** — Current conditions and forecast, auto-detected location
+- **Money** — Live ZAR exchange rates against major currencies
+- **Watch** — Trending movies and shows on South African streaming platforms
+- **Listen** — Podcasts from SA and international sources
+- **Notes** — Quick personal notes that persist across sessions
+- **Wordle** — A daily five-letter word puzzle
+- **AI** — On-device assistant powered by Apple Intelligence
+
 ## Auto-Updates
 
-Moment checks for updates automatically in the background. When a new version is available it downloads silently — you'll see a **Restart to Update** prompt in the About screen. You can also check manually via the tray menu: **Check for Updates**.
+Moment checks for updates automatically every 15 minutes. When a new version is ready you'll see a **Restart to Update** button in the About screen. You can also check manually from the tray menu.
 
 ## Links
 
