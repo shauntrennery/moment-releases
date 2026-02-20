@@ -5,8 +5,9 @@
 <h1 align="center">Moment</h1>
 
 <p align="center">
-  <strong>News. Weather. The Rand. One click.</strong><br />
-  A macOS menu bar app for South Africans. Just a <em>Moment</em>.
+  <strong>Just a Moment.</strong><br />
+  News, weather, money, podcasts, AI summaries, and what to watch tonight.<br />
+  A lightweight macOS menu bar app built for South Africans.
 </p>
 
 <p align="center">
