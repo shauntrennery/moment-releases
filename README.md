@@ -20,12 +20,7 @@
 
 ## Download
 
-Grab the latest `.dmg` from [Releases](https://github.com/shauntrennery/moment-releases/releases/latest):
-
-| Chip | File |
-|------|------|
-| Apple Silicon (M1/M2/M3/M4) | `Moment_*_aarch64.dmg` |
-| Intel | `Moment_*_x64.dmg` |
+Grab the latest `.dmg` from [Releases](https://github.com/shauntrennery/moment-releases/releases/latest). Requires a Mac with Apple Silicon (M1 or later).
 
 Open the `.dmg` and drag **Moment** into your Applications folder.
 
